@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Arek",
+    "Date": "0001-01-01T00:00:00",
+    "GuessingTime": "00:00:43.1156701",
+    "GuessingTries": 6
+  },
+  {
+    "Name": "Arek",
+    "Date": "0001-01-01T00:00:00",
+    "GuessingTime": "00:02:21.9172610",
+    "GuessingTries": 18
+  },
+  {
+    "Name": "Arek",
+    "Date": "0001-01-01T00:00:00",
+    "GuessingTime": "00:00:58.7341139",
+    "GuessingTries": 7
+  },
+  {
+    "Name": "Aro",
+    "Date": "0001-01-01T00:00:00",
+    "GuessingTime": "00:02:25.4425881",
+    "GuessingTries": 24
+  },
+  {
+    "Name": "Aro",
+    "Date": "0001-01-01T00:00:00",
+    "GuessingTime": "00:01:13.3799496",
+    "GuessingTries": 11
+  }
+]

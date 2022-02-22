@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qn+nG1rkPwfodf2wFn+i4va7K4ZfS5zh514i7wpWXJqjTffnl8IT3oLyn0hIu6kYtcfezApik9BfDdTqKYQQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arcad\\Desktop\\ja\\praca\\motorola\\GuessingGame\\GuessingGame\\GuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arcad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
